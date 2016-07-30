@@ -1,4 +1,4 @@
-# ember-ci [![Build Status](https://travis-ci.org/mike-north/ember-ci.svg?branch=master)](https://travis-ci.org/mike-north/ember-ci)
+# ember-ci [![Build Status](https://travis-ci.org/mike-north/ember-ci.svg?branch=master)](https://travis-ci.org/mike-north/ember-ci) [![CircleCI](https://circleci.com/gh/mike-north/ember-ci/tree/master.svg?style=svg)](https://circleci.com/gh/mike-north/ember-ci/tree/master)
 
 Continuious integration tools and goodies for Ember.js apps.
 
@@ -10,10 +10,23 @@ You can install this addon using ember-cli
 ember install ember-ci
 ```
 
-### Setting up Travis-CI to run Chrome instead of PhantomJS
+### Travis-CI
 
+#### Setting up to run Chrome instead of PhantomJS 
 ```sh
 ember g travis-chrome
+```
+
+### Circle-CI
+
+#### Default
+```sh
+ember g circle-ci-init
+```
+
+#### Test with headless Chrome
+```sh
+ember g circle-ci-chrome
 ```
 
 ## Contributing
