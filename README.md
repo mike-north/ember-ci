@@ -1,4 +1,4 @@
-# ember-ci
+# ember-ci [![Build Status](https://travis-ci.org/mike-north/ember-ci.svg?branch=master)](https://travis-ci.org/mike-north/ember-ci)
 
 Continuious integration tools and goodies for Ember.js apps.
 
