@@ -1,8 +1,22 @@
-# Ember-ci
+# ember-ci
 
-This README outlines the details of collaborating on this Ember addon.
+Continuious integration tools and goodies for Ember.js apps.
 
 ## Installation
+
+You can install this addon using ember-cli
+
+```sh
+ember install ember-ci
+```
+
+### Setting up Travis-CI to run Chrome instead of PhantomJS
+
+```sh
+ember g travis-chrome
+```
+
+## Contributing
 
 * `git clone` this repository
 * `npm install`
