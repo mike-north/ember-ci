@@ -12,16 +12,16 @@ ember install ember-ci
 
 ### Travis-CI
 
-#### Setting up to run Chrome instead of PhantomJS 
+#### Test with Chrome instead of PhantomJS 
 ```sh
 ember g travis-chrome
 ```
 
 ### Circle-CI
 
-#### Default
+#### Test with Phantomjs 2.1
 ```sh
-ember g circle-ci-init
+ember g circle-ci-phantom
 ```
 
 #### Test with headless Chrome
