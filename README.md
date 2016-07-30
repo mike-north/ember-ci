@@ -37,4 +37,8 @@ ember g travis-chrome
 
 * `ember build`
 
+## Thanks
+
+* [@martndemus](https://github.com/martndemus) for a [gist that inspired the Travis-CI chrome setup](https://gist.github.com/martndemus/79fe2198c628c22b78f4)
+
 For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
