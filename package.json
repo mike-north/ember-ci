@@ -1,6 +1,6 @@
 {
   "name": "ember-ci",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Continuious integration & testing goodies for Ember.js (Travis, Circle-CI)",
   "directories": {
     "doc": "doc",
