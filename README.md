@@ -1,5 +1,7 @@
 # ember-ci [![Build Status](https://travis-ci.org/mike-north/ember-ci.svg?branch=master)](https://travis-ci.org/mike-north/ember-ci) [![CircleCI](https://circleci.com/gh/mike-north/ember-ci/tree/master.svg?style=svg)](https://circleci.com/gh/mike-north/ember-ci/tree/master)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-ci.svg)](https://greenkeeper.io/)
+
 Continuious integration tools and goodies for Ember.js apps.
 
 ## Installation
