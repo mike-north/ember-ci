@@ -41,7 +41,7 @@
     "ember-qunit": "6.2.0",
     "ember-resolver": "10.1.0",
     "ember-source": "5.0.0",
-    "ember-source-channel-url": "2.0.1",
+    "ember-source-channel-url": "3.0.0",
     "ember-try": "1.2.1",
     "eslint-plugin-ember": "11.5.1",
     "eslint-plugin-node": "11.1.0",
