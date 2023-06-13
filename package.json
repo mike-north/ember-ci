@@ -45,7 +45,7 @@
     "ember-try": "1.2.1",
     "eslint-plugin-ember": "11.5.1",
     "eslint-plugin-node": "11.1.0",
-    "husky": "2.4.1",
+    "husky": "8.0.3",
     "loader.js": "4.7.0",
     "qunit-dom": "2.0.0",
     "semantic-release": "15.12.5"
